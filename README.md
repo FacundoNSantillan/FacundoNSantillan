@@ -7,10 +7,11 @@
 ---
 
 ### 🧑‍💻 Sobre mí
-- 💻 Soy desarrollador **Full Stack MERN**, aunque últimamente me estoy inclinando más al **Desarrollo Backend**  
-- 🔥 Explorando nuevas tecnologías y conceptos para ser un mejor desarrollador
-- 🚀 Me interesa colaborar en proyectos nuevos y seguir sumando experiencia
-- 💡 Siempre con ganas de seguir aprendiendo
+Estoy en tercer año de Ingeniería en Sistemas de Información. Empecé como Full Stack MERN, pero con el tiempo me fui volcando cada vez más al backend, que es donde hoy me siento más cómodo.
+
+Trabajo con NestJS, usando PostgreSQL, Prisma y Docker. Me gusta armar proyectos bien ordenados, con una estructura clara, y escribir código que sea fácil de leer y mantener. Prefiero entender bien cómo funciona cada parte antes de seguir agregando cosas por encima.
+
+Estoy buscando seguir creciendo como desarrollador backend, sumarme a proyectos donde pueda aportar, aprender del equipo y ganar experiencia real.
 
 --- 
 
